@@ -1,0 +1,15 @@
+# Compiled C/C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug/build output
+build/
+Debug/
+Release/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
